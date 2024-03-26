@@ -19,15 +19,15 @@
       },
         "API_ID": {
         "description": "api_id FROM TELEGRAM",
-        "value": "YOUR API ID"
+        "value": "29308061"
         },
         "API_HASH": {
         "description": "api_hash FROM TELEGRAM",
-        "value": "YOUR API HASH "
+        "value": "462de3dfc98fd938ef9c6ee31a72d099"
         },
         "BOT_TOKEN": {
         "description": "YOUR BOT TOKEN",
-        "value": "@BOTFATHER"
+        "value": "7167158774:AAEKbhLTYoRaxxBBhRWrZ_6K9cFrAK95KBQ"
         }
         },
   "buildpacks": [
